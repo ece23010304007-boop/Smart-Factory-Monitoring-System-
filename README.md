@@ -5,6 +5,7 @@ MQTT-Based Real-Time Industrial Telemetry Data Pipeline & Streamlit Visual Analy
 The Smart Factory Monitoring System is an end-to-end IoT software pipeline engineered to simulate, ingest, store, and visualize real-time industrial telemetry. Operating over the lightweight MQTT (Message Queuing Telemetry Transport) messaging protocol, the system captures continuous metrics—such as machine operating temperature, hydraulic pressure, and machine availability states—and streams them to an interactive dashboard.
 
 2. Core Architecture Components
+
 1. Telemetry Simulator
 machine_simulator.py
 
